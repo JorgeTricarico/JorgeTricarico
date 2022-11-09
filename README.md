@@ -14,6 +14,12 @@ I'm a Full stack web developer who loves React and Java.
 - 🔧 I’m currently open to work.
 - 🧪 I work mostly with Java - Spring for BackEnd, React for FrontEnd  and MySQL for databases.
 
+-Passionate about learning new things, especially in technology and
+ economics. Currently training as a software developer, mainly in
+ Java 8. I am looking for my first IT job that will allow me to apply my
+ knowledge, keep learning and grow as a professional in the
+ industry
+
 <br />
 
 ## Languages and Tools
