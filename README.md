@@ -37,7 +37,7 @@ In the future, I aim to transition fully into a Backend Developer role, leveragi
     <img src="https://icon.icepanel.io/Technology/svg/FastAPI.svg" alt="FastAPI" width="40" height="40"/>
   </a>
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://i.pinimg.com/736x/28/ce/bf/28cebfa3c75ff7815999b0c81a826af6.jpg" alt="pandas" width="40" height="40"/>
+    <img src="https://miro.medium.com/v2/resize:fit:770/0*fto5mNElXLZ8TCZr.png" alt="pandas" width="40" height="40"/>
   </a>
   <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" alt="selenium" width="40" height="40"/> 
