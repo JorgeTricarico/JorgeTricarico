@@ -28,10 +28,10 @@ In the future, I aim to transition fully into a Backend Developer role, leveragi
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   </a> 
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-    <img src="[https://logodix.com/logo/1735072.png](https://avatars.githubusercontent.com/u/27804?s=200&v=4)" alt="Django" width="40" height="40"/>
+    <img src="https://logodix.com/logo/1735072.png" alt="Django" width="40" height="40"/>
   </a>
   <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-    <img src="http://flask.pocoo.org/static/logo/flask.svg" alt="Flask" width="40" height="40"/>
+    <img src="https://static-00.iconduck.com/assets.00/flask-icon-1594x2048-84mjydzf.png" alt="Flask" width="40" height="40"/>
   </a>
   <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
     <img src="https://logodix.com/logo/2051.png" alt="FastAPI" width="40" height="40"/>
