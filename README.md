@@ -27,9 +27,18 @@ In the future, I aim to transition fully into a Backend Developer role, leveragi
   <a href="https://www.python.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   </a> 
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
-    <img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2F1000marcas.net%2Fdjango-logo%2F&psig=AOvVaw3apmRVV646gUh3IN3n4iuu&ust=1734197654320000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIjsr-2jpYoDFQAAAAAdAAAAABAE)" alt="django" width="40" height="40"/> 
-  </a> 
+  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
+    <img src="https://logodix.com/logo/1735072.png" alt="Django" width="40" height="40"/>
+  </a>
+  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
+    <img src="http://flask.pocoo.org/static/logo/flask.svg" alt="Flask" width="40" height="40"/>
+  </a>
+  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
+    <img src="https://logodix.com/logo/2051.png" alt="FastAPI" width="40" height="40"/>
+  </a>
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+    <img src="https://pandas.pydata.org/static/img/pandas.svg" alt="pandas" width="40" height="40"/>
+  </a>
   <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" alt="selenium" width="40" height="40"/> 
   </a>
@@ -57,18 +66,7 @@ In the future, I aim to transition fully into a Backend Developer role, leveragi
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
     <img src="https://logodix.com/logo/2048.png" alt="SQL" width="40" height="40"/>
   </a>
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-    <img src="https://logodix.com/logo/2049.png" alt="Django" width="40" height="40"/>
-  </a>
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-    <img src="https://logodix.com/logo/2050.png" alt="Flask" width="40" height="40"/>
-  </a>
-  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
-    <img src="https://logodix.com/logo/2051.png" alt="FastAPI" width="40" height="40"/>
-  </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://pandas.pydata.org/static/img/pandas.svg" alt="pandas" width="40" height="40"/>
-  </a>
+  
 </p> 
 
 
