@@ -31,13 +31,13 @@ In the future, I aim to transition fully into a Backend Developer role, leveragi
     <img src="https://logodix.com/logo/1735072.png" alt="Django" width="40" height="40"/>
   </a>
   <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-    <img src="https://static-00.iconduck.com/assets.00/flask-icon-1594x2048-84mjydzf.png" alt="Flask" width="40" height="40"/>
+    <img src="https://www.kindpng.com/picc/m/188-1882559_python-flask-hd-png-download.png" alt="Flask" width="40" height="40"/>
   </a>
   <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
-    <img src="https://logodix.com/logo/2051.png" alt="FastAPI" width="40" height="40"/>
+    <img src="https://icon.icepanel.io/Technology/svg/FastAPI.svg" alt="FastAPI" width="40" height="40"/>
   </a>
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://pandas.pydata.org/static/img/pandas.svg" alt="pandas" width="40" height="40"/>
+    <img src="https://i.pinimg.com/736x/28/ce/bf/28cebfa3c75ff7815999b0c81a826af6.jpg" alt="pandas" width="40" height="40"/>
   </a>
   <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" alt="selenium" width="40" height="40"/> 
@@ -61,10 +61,10 @@ In the future, I aim to transition fully into a Backend Developer role, leveragi
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
   </a> 
    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://logodix.com/logo/1933846.png" alt="MongoDB" width="40" height="40"/>
+    <img src="https://cdn.icon-icons.com/icons2/2415/PNG/96/mongodb_original_wordmark_logo_icon_146425.png" alt="MongoDB" width="40" height="40"/>
   </a>
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
-    <img src="https://logodix.com/logo/2048.png" alt="SQL" width="40" height="40"/>
+    <img src="https://image.shutterstock.com/image-vector/sql-database-icon-logo-design-260nw-684826648.jpg" alt="SQL" width="40" height="40"/>
   </a>
   
 </p> 
