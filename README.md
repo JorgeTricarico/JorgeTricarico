@@ -34,7 +34,7 @@ In the near future, I aim to **transition fully into a Backend Developer role**,
     <img src="https://logodix.com/logo/1735072.png" alt="Django" width="40" height="40"/>
   </a>
   <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.kindpng.com/picc/m/188-1882559_python-flask-hd-png-download.png" alt="Flask" width="40" height="40"/>
+    <img src="https://flask.palletsprojects.com/en/stable/_images/flask-horizontal.png" alt="Flask Logo" style="max-width: 100%; height: auto;">
   </a>
   <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
     <img src="https://icon.icepanel.io/Technology/svg/FastAPI.svg" alt="FastAPI" width="40" height="40"/>
