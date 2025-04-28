@@ -1,77 +1,73 @@
-## Hello World 👋 I'm Jorge Tricarico  
+## Hello World 👋 I'm Jorge Tricarico
 
-I'm a Backend Developer and QA Automation Specialist. Currently working as a QA Automation Engineer in the banking sector, using Python and Selenium to deliver reliable and efficient solutions.  
+I'm a **QA Automation Engineer** and **Backend Developer** passionate about building reliable and scalable solutions.  
+Currently working in the **banking sector**, specializing in **automated testing** with **Python** and **Selenium**, while continuously strengthening my **backend development skills** with **Java** and **Python**.
 
-In the future, I aim to transition fully into a Backend Developer role, leveraging my passion for problem-solving and my knowledge of backend technologies.  
+My goal is to transition fully into a **Backend Engineer** role, where I can combine my automation expertise with my love for solving complex problems through clean, efficient code.
 
-<br/>
+---
 
 <a href="https://www.linkedin.com/in/jorge-tricarico/">
-<img align="left" alt="Jorge Tricarico LinkedIN" width="22px" src="https://icongr.am/fontawesome/linkedin.svg?size=128&color=70c8ff" />
-</a>  
+  <img align="left" alt="Jorge Tricarico LinkedIn" width="22px" src="https://icongr.am/fontawesome/linkedin.svg?size=128&color=70c8ff" />
+</a>
 
 <br />
 
-## About Me  
+## 🔥 About Me
 
-- 🌱 I’m continuously learning new technologies and methodologies.  
-- 🔧 I’m currently open to work.  
-- 🚀 Passionate about automation, backend development, and solving challenging problems.  
-- 💻 Proficient in backend development with Python (Django) and Java (Spring Boot). 
+- 🌱 Lifelong learner, always exploring new technologies and best practices.
+- 🔧 Currently open to new opportunities in QA Automation and Backend Development.
+- 🚀 Passionate about backend architectures, automation frameworks, and clean code principles.
+- 💻 Skilled in Python (Django, FastAPI), Java (Spring Boot), and Selenium.
+- 🧠 Interested in system design, API development, and automation strategies.
 
 <br />
 
-## Languages and Tools
+## 🛠️ Languages and Tools
 
-<p align="left">  
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-    <img src="https://logodix.com/logo/1735072.png" alt="Django" width="40" height="40"/>
+<p align="left">
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   </a>
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.kindpng.com/picc/m/188-1882559_python-flask-hd-png-download.png" alt="Flask" width="40" height="40"/>
+  <a href="https://www.djangoproject.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="Django" width="40" height="40"/>
   </a>
-  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
-    <img src="https://icon.icepanel.io/Technology/svg/FastAPI.svg" alt="FastAPI" width="40" height="40"/>
+  <a href="https://fastapi.tiangolo.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="40" height="40"/>
   </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://miro.medium.com/v2/resize:fit:770/0*fto5mNElXLZ8TCZr.png" alt="pandas" width="40" height="40"/>
+  <a href="https://selenium.dev/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" alt="Selenium" width="40" height="40"/>
   </a>
-  <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" alt="selenium" width="40" height="40"/> 
+  <a href="https://www.java.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
   </a>
-  <a href="https://www.java.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-  </a> 
-  <a href="https://spring.io/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="spring" width="40" height="40"/> 
-  </a> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a> 
-   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.icon-icons.com/icons2/2415/PNG/96/mongodb_original_wordmark_logo_icon_146425.png" alt="MongoDB" width="40" height="40"/>
+  <a href="https://spring.io/projects/spring-boot" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring Boot" width="40" height="40"/>
   </a>
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
-    <img src="https://image.shutterstock.com/image-vector/sql-database-icon-logo-design-260nw-684826648.jpg" alt="SQL" width="40" height="40"/>
+  <a href="https://react.dev/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
   </a>
-  
-</p> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3schools.com/html/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
+  </a>
+  <a href="https://www.microsoft.com/en-us/sql-server/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" width="40" height="40"/>
+  </a>
+</p>
 
+<br />
 
-<br/>
+## 📊 GitHub Stats
 
-## GitHub Stats  
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jorgetricarico&show_icons=true&locale=en" alt="jorgetricarico" /></p>  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jorgetricarico&show_icons=true&theme=github_dark&hide_title=true&count_private=true" alt="GitHub Stats" />
+</p>
